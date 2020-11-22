@@ -1,0 +1,14 @@
+﻿  face.c
+  main.c
+C:\Users\Pc\Source\Repos\HM3\HM3\main.c(10,9): warning C4101: 'scene1': unreferenced local variable
+  object.c
+C:\Users\Pc\Source\Repos\HM3\HM3\main.c(10,19): warning C4101: 'scene2': unreferenced local variable
+  scene.c
+C:\Users\Pc\Source\Repos\HM3\HM3\object.c(2,31): warning C4083: expected '('; found identifier 'disable'
+C:\Users\Pc\Source\Repos\HM3\HM3\scene.c(47,17): warning C4133: '=': incompatible types - from 'NODE *' to 'NODE *'
+C:\Users\Pc\Source\Repos\HM3\HM3\scene.c(58,19): warning C4133: '=': incompatible types - from 'NODE *' to 'NODE *'
+C:\Users\Pc\Source\Repos\HM3\HM3\scene.c(70,1): warning C4029: declared formal parameter list different from definition
+  vertex.c
+  Generating Code...
+C:\Users\Pc\Source\Repos\HM3\HM3\scene.c(72,1): warning C4047: 'initializing': 'NODE *' differs in levels of indirection from 'NODE **'
+  HM3.vcxproj -> C:\Users\Pc\Source\Repos\HM3\Debug\HM3.exe
